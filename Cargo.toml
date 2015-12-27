@@ -1,0 +1,4 @@
+[package]
+name = "rustParser"
+version = "0.1.0"
+authors = ["Esteban <eginez@gmail.com>"]
